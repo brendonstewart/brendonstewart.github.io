@@ -4,7 +4,7 @@ I build intelligent products and hands-on prototypes that blend **AI, automation
 
 I work across strategy, design, and execution — leading teams that define **next-generation recruiting and HR tech at Amazon**, while also building **AI-powered automation tools** for small businesses and creators through my side venture, **Trillium Tech**.
 
-Most of my projects are **working, vibe-coded examples**: real code, real interfaces, and measurable outcomes — from AI review analytics dashboards and recruiter training sandboxes to content automation platforms for fitness and healthcare.
+Most of my projects are **working web and mobile apps**: real code, real interfaces, and measurable outcomes — from AI review analytics dashboards and recruiter training sandboxes to content automation platforms for fitness and healthcare.
 
 ---
 
@@ -18,7 +18,7 @@ Most of my projects are **working, vibe-coded examples**: real code, real interf
 ---
 
 ## 🧠 About Me
-- 💼 **Senior Product Manager @ Amazon** – leading product direction for internal ATS and candidate data platforms used across global recruiting  
+- 💼 **Senior Product Manager @ Amazon** – leading product direction for internal ATS and candidate data platforms used to process tens of millions of global job candidates across Amazon  
 - 🌲 **Founder, Trillium Tech** – AI consulting and automation practice serving local SMBs in the Pacific Northwest  
 - 🏃 **Ultrarunner & Builder** – applying endurance principles to building resilient products and teams  
 - 📈 **Specialties:** product strategy, UX systems, analytics, AI agent workflows, and early-stage incubation  
